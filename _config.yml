@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Raghavendra 
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -8,6 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 twitter_username: your-twitter-handle
-github_username:  your-github-handle
+github_username:  raghav-ys
 
 show_excerpts: true # set to false to remove excerpts on the homepage
